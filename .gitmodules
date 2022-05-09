@@ -1,0 +1,6 @@
+[submodule "fe-commit-history"]
+	path = fe-commit-history
+	url = https://github.com/JuanCJR/fe-commit-history.git
+[submodule "bff-commit-history"]
+	path = bff-commit-history
+	url = https://github.com/JuanCJR/bff-commit-history
